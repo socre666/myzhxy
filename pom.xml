@@ -5,6 +5,7 @@
 
     <!-- 继承方式使用SpringBoot -->
     <!-- 继承方式使用SpringBoot -->
+    <!-- 好好学习 -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
