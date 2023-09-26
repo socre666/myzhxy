@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- 继承方式使用SpringBoot -->
+    <!-- 继承方式使用SpringBoot -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
